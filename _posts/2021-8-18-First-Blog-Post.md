@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ST558 First Blog Post: Data Science vs Statistics
+title: ST558 First Blog Post Data Science vs Statistics
 ---
 
 
