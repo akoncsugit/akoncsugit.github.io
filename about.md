@@ -3,12 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](C:\Users\AlexKo\Documents\Fall 2021\558\HW2)
-Some information about you!
+![Me at Linville Falls, NC](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
+Me at [Linville Falls, NC](https://www.visitnc.com/listing/n9wC/linville-falls)
 
-### More Information
+## Introduction
+Hello! My name is Ashley Ko. I am a graduate student at [North Carolina State University](https://www.ncsu.edu/). I am currently working on a master’s degree in statistics with an anticipated graduation date of Summer 2022.
 
-A place to include any other types of information that you'd like to include about yourself.
+### About this blog
+This blog was created with the intention of refining my skills as a data scientist. Through this blog I hope to expand upon my ability to effectively communicate my statistical expertise and data analyses as well as challenging myself as a programmer.
+
+### About Me
+Hello! My name is Ashley Ko. I am a graduate student at [North Carolina State University](https://www.ncsu.edu/). I am currently working on a master’s degree in statistics with an anticipated graduation date of Summer 2022.
+
+##### Interests
+I am an avid runner and rock climber. I love nature
+#####Future Plans
 
 ### Contact me
 
