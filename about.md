@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Me at Linville Falls, NC](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
 Me at [Linville Falls, NC](https://www.visitnc.com/listing/n9wC/linville-falls)
-Me at <a href="https://www.visitnc.com/listing/n9wC/linville-falls" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Linville Falls, NC</a>
+
 
 ## Introduction
 
