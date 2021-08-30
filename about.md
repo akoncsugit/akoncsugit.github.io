@@ -17,11 +17,14 @@ This blog was created with the intention of refining my skills as a data scienti
 I live in Durham, North Carolina with my husband and two cats. I grew up in east central Illinois. I traded cornfields for pine trees in 2012 and, while the scenery has changed, my passion for science has not. Originally, this love took the form of biological research in the field of neurodevelopment. I grew to understand experimental design and data analysis and I was compelled towards a career in data science.
 
 ##### Interests
-I am a restless wander and, above everything else, I enjoy travel. I am also an avid runner, hiker, and rock climber. When I am not on the move, I enjoy movies and suspenseful mystery books.
+I am a restless wander and, above everything else, I enjoy travel. I am also an avid runner, hiker, and rock climber. When I am not on the move, I enjoy movies and suspenseful mystery novels.
 
 ##### Future Plans
-I would like to wor
+I wish to be a part of a dynamic team working at the intersection of statistics and computer science. I am particularly interested in using my skills to improve the world around me.
+More travel would be nice, too! :)
+
 
 ### Contact me
 
 [Email: aastadle@ncsu.edu](mailto:aastadle@ncsu.edu)
+
