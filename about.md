@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](C:\Users\AlexKo\Documents\Fall 2021\558\HW2)
+![](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
 Some information about you!
 
 ### More Information
