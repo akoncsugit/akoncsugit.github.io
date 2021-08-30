@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
-Some information about you!
+![Me at [Linville Falls, NC](https://www.visitnc.com/listing/n9wC/linville-falls)(https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
 
-### More Information
+## Introduction
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Ashley Ko. I am a graduate student at [North Carolina State University](https://www.ncsu.edu/). I am currently on a masters degree in statistics and I atticipate graduating by Summer 2022.
 
 ### Contact me
 
