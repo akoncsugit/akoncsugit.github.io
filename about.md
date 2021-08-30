@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Me at [Linville Falls, NC](https://www.visitnc.com/listing/n9wC/linville-falls)](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
+![Me at Linville Falls, NC](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
 
 ## Introduction
 
