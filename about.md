@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 ![Me at Linville Falls, NC](https://raw.githubusercontent.com/akoncsugit/akoncsugit.github.io/master/images/aboutmephoto.jpg)
+Me at Linville Falls, NC
 
 ## Introduction
 
