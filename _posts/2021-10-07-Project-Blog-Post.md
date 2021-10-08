@@ -3,7 +3,7 @@
 
 Ashley Ko 10/04/2021
 
-\#\#Not my best The vignette process was incredibly instructive. I was
+\#\#Not my best. The vignette process was incredibly instructive. I was
 originally interested in the covid data set but had to which do to
 repeated errors when accessing the COVID API. I continued with my second
 choice, Pokemon and really enjoyed seen how I could apply my new
