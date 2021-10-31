@@ -7,7 +7,8 @@ date: "2021-10-31"
 ## Summary of Project
 For Project 2 my partner, Sergio Mora, and I were tasked with creating automating the creation of six reports from the [online news popularity data set](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity) which predict the number of shares `shares` for each data channel (lifestyle, entertainment, business, social media, tech, and world). We used linear models and non-linear ensemble models (random forest and boosting trees) to accomplish our goal. We created a repo for our project and used Slack as a means of communication.
 
-[My blog repo](https://github.com/akoncsugit/akoncsugit.github.io) \n
+[My blog repo](https://github.com/akoncsugit/akoncsugit.github.io)
+
 [Project 2 repo](https://github.com/Smora0713/Project-2)
 
 ## What would you do differently?
