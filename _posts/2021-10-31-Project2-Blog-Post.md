@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Blog 4 Project 2 Reflection"
-author: "Ashley Ko"
 date: "2021-10-31"
 ---
 
 ## Summary of Project
 For Project 2 my partner, Sergio Mora, and I were tasked with creating automating the creation of six reports from the [online news popularity data set](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity) which predict the number of shares `shares` for each data channel (lifestyle, entertainment, business, social media, tech, and world). We used linear models and non-linear ensemble models (random forest and boosting trees) to accomplish our goal. We created a repo for our project and used Slack as a means of communication.
 
-My blog repo: https://github.com/akoncsugit/akoncsugit.github.io
-Project 2 repo: https://github.com/Smora0713/Project-2
+[My blog repo](https://github.com/akoncsugit/akoncsugit.github.io)
+[Project 2 repo](https://github.com/Smora0713/Project-2)
 
 ## What would you do differently?
 Honestly, I had no major issues and therefore there isn't much to change. If I had to change one thing, I would have looked at the data set and decided which predictor variables we believed to be important before subsetting the data and creating summaries. Using the full data set created for messy plots and numeric summaries. If I had started with a smaller data set to begin with I would not have had to go back and redo some of my summaries. I also kind of wish we had decided a cleaner organization structure for our repo. Sub-folders would have been nice.
