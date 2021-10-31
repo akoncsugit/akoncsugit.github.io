@@ -1,9 +1,0 @@
----
-title: "Programming Background"
-author: "Ashley Ko"
-date: "9/14/2021"
-
----
-## Programming Background
-
-I have previously worked with SAS and java. Of the three I prefer java. R is great for data anaylsis. I think R is by far easier to learn than the other two programming languages I know.
