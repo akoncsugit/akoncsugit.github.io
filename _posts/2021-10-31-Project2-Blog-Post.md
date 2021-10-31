@@ -2,7 +2,7 @@
 layout: post
 title: "Blog 4 Project 2 Reflection"
 author: "Ashley Ko"
-date: "10/31/2021"
+date: "2021-10-31"
 ---
 
 ## Summary of Project
