@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog 5 Updated Thoughts on Data Science and R""
+title: Blog 5 Updated Thoughts on Data Science and R
 ---
 
 ### What has changed about what you think a data scientist is and what they do?
