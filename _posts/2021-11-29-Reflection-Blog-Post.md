@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Blog 5 Updated Thoughts on Data Science and R""
-date: "2021-11-29"
 ---
 
 ### What has changed about what you think a data scientist is and what they do?
