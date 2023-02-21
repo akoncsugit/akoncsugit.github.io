@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting  back on track
-date: "`r Sys.Date()`"
+date: 2023-2-21
 ---
 
 ### Here are some projects I have worked on
